@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/src/nachos/machine/Config.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/nachos/machine/Lib.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/nachos/machine/Machine.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/nachos/machine/Timer.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/nachos/security/NachosSecurityManager.java" charset="UTF-8" />
+  </component>
+</project>
